@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\miare_chick\documents\visual studio 2015\projects\hchandb\main.cpp(24): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+c:\users\miare_chick\documents\visual studio 2015\projects\hchandb\main.cpp(54): warning C4701: 初期化されていない可能性のあるローカル変数 'diff' が使用されます
+  HchanDB.vcxproj -> C:\Users\Miare_chick\documents\visual studio 2015\Projects\HchanDB\Debug\HchanDB.exe
+  HchanDB.vcxproj -> C:\Users\Miare_chick\documents\visual studio 2015\Projects\HchanDB\Debug\HchanDB.pdb (Full PDB)
